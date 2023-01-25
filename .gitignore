@@ -1,0 +1,11 @@
+/.idea/
+/bin/
+/lib/
+/out/
+/src/test/
+/target/
+/.classpath
+/.project
+/CatchBait.eml
+/CatchBait.iml
+/CatchBaitProject.iml

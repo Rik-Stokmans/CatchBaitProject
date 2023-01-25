@@ -1,0 +1,20 @@
+name: CatchBait
+version: '${project.version}'
+main: catchbait.catchbait.CatchBait
+api-version: 1.18
+authors: [ Duffie13 ]
+description: catch fish
+commands:
+  resetVariables:
+    permission: op
+    description: resets your variables
+  getFish:
+    permission: op
+    description: gives the user a fish
+  quickSellAll:
+    description: sells all your items
+  quickSell:
+    description: sells the item in you main hand
+  balance:
+    description: shows you your amount of money
+    aliases: bal
